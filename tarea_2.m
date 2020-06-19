@@ -1,7 +1,7 @@
 %[ELO250] TAREA 2
 %Alexander Palacio (201721011-7)
 %Tomas Ibaceta     (201721039-7)
-%El tercero profe, pongale 0 (201721050-2)
+%l1nc3 (201721050-2)
 
 clc;
 clear;
